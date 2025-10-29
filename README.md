@@ -4,7 +4,7 @@
 В проекте проведён анализ данных мобильной игры.  
 Изучены ключевые показатели удержания пользователей, проведено A/B-тестирование акционных предложений, а также предложены метрики для оценки успешности тематических игровых событий.
 
-[⬇️ **Скачать ноутбук** `Mobile-Game-Data-Analysis.ipynb`](Mobile-Game-Data-Analysis.ipynb?raw=1)
+[📘 **Открыть ноутбук на GitHub**](https://github.com/melnikovand92/Mobile-Game-Data-Analysis/blob/main/Mobile-Game-Data-Analysis.ipynb)
 
 ---
 
